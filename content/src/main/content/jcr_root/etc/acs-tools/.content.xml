@@ -5,6 +5,7 @@
     <clientlibs-optimizer/>
     <csv-resource-type-updater/>
     <csv-asset-importer/>
+    <csv-property-importer/>
     <jsp-code-display/>
     <query-editor/>
     <explain-query/>
